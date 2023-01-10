@@ -1,0 +1,2 @@
+# kedua
+latihan git remote
